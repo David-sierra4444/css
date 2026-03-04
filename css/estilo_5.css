@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+}
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23%;
+  height: 200px;
+  margin:7px;
+  background: rgb(129, 167, 249);
+  color: white;
+}
+
+div h1  {
+  margin: 20px 12px;
+}
+
+.center{
+  position: absolute;
+  top: 0;
+  left: 23.2%;
+  width: 56%;
+  height: 200px;
+  margin: 7px;
+  background: rgb(129, 167, 249);
+}
+
+.right1{
+  position: absolute;
+  top:0;
+  right: 0;
+  width: 20%;
+  height: 900px;
+  margin:7px;
+  background: red;
+}
+
+.center2{
+  position: absolute;
+  top: 17.2%;
+  width: 79.2%;
+  height: 696.2px;
+  margin: 7px;
+  background: purple;
+}
+
+.left{
+  position: absolute;
+  top: 905px;
+  left: 0;
+  width: 33%;
+  height: 270px;
+  margin: 7px;
+  background: orange;
+}
+
+.left-center{
+  position: absolute;
+  top: 905px;
+  left: 33.2%;
+  width: 33%;
+  height: 270px;
+  margin: 7px;
+  background: orange;
+}
+
+.left-center-right{
+  position: absolute;
+  top: 905px;
+  right: 0;
+  width: 33%;
+  height: 270px;
+  margin: 7px;
+  background: orange;
+}
